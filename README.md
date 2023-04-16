@@ -9,6 +9,7 @@ Car Accident Data
 The car accident dataset contains information about individuals and their driving history, including demographic, socioeconomic, and vehicle-related variables. The dataset includes the following features:
 
 ID, Age, Gender, Race, Driving Experience, Education, Income, Credit Score, Vehicle Ownership, Vehicle Year, Marital Status, Children, Postal Code, Annual Mileage, Vehicle Type, Speeding Violations, DUIs, Past Accidents
+
 The target variable for the car accident dataset is the outcome, which indicates whether an individual has been involved in a car accident (Crash/No Crash).
 
 Stroke Risk Data
